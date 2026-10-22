@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Vision",
+  "description": "Interactive 3D Engineering Visualization laboratory and CAD learning platform based on the BTU B.Tech Engineering Visualization course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
